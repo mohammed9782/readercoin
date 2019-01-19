@@ -1,0 +1,2 @@
+# readercoin
+readercoin
